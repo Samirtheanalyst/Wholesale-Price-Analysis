@@ -1,4 +1,4 @@
-# Wholesale_price_Analysis
+# Wholesale-price-Analysis
 Project Summary
 This project analyzes the Wholesale Price Index (WPI) for 100+ crops from 2012 to 2024 using MySQL for querying and Python (Pandas, Matplotlib, Seaborn) for advanced data analysis and visualization.
 
